@@ -10,7 +10,7 @@
         <title>IGG Technik</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="assets/css/index.css">
+        <link rel="stylesheet" href="assets/css/home/index.css">
     </head>
     <body>
         <!--[if lt IE 7]>
