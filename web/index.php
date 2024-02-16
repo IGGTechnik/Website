@@ -18,7 +18,7 @@
         <![endif]-->
         <header>
             <div class="header">
-            <a id="a__logo" href="https://iggtechnik.de"><img src="assets/logos/full.svg" alt="IGG Technik"></a>
+            <a id="a__logo" href="https://iggtechnik.de"><img src="assets/logos/full.png" alt="IGG Technik"></a>
             <nav>
                 <a href="https://cloud.iggtechnik.de">ownCloud</a>
             </nav>
