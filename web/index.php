@@ -10,25 +10,25 @@
         <title>IGG Technik</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="assets/css/index.css">
+        <link rel="stylesheet" href="/assets/css/index.css">
 
-        <link rel="apple-touch-icon" sizes="180x180" href="assets/favicons/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="assets/favicons/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/favicons/favicon-16x16.png">
-        <link rel="manifest" href="assets/favicons/site.webmanifest">
-        <link rel="mask-icon" href="assets/favicons/safari-pinned-tab.svg" color="#fe5f55">
-        <link rel="shortcut icon" href="assets/favicons/favicon.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
+        <link rel="manifest" href="/assets/favicons/site.webmanifest">
+        <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#fe5f55">
+        <link rel="shortcut icon" href="/assets/favicons/favicon.ico">
         <meta name="msapplication-TileColor" content="#fe5f55">
-        <meta name="msapplication-config" content="assets/favicons/browserconfig.xml">
+        <meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
         <meta name="theme-color" content="#fe5f55">
     </head>
     <body>
-        <!--[if lt IE 7]>
+        <!--[if lt IE 11]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <header>
             <div class="header">
-            <a id="a__logo" href="https://iggtechnik.de"><img src="assets/logos/full.png" alt="IGG Technik"></a>
+            <a id="a__logo" href="https://iggtechnik.de"><img src="/assets/logos/full.png" alt="IGG Technik"></a>
             <nav>
                 <a href="https://cloud.iggtechnik.de">ownCloud</a>
             </nav>
@@ -52,7 +52,8 @@
         <div id="calendar" class="width_lim">
             <h2>Kalender</h2>
             <h3>Unsere aktuell geplanten Veranstaltungen</h3>
-            <iframe src="https://cloud.iggtechnik.de/index.php/apps/calendar/embed/3P6NO7HIJ0DMNY8K"></iframe>
+            <!-- <iframe src="https://cloud.iggtechnik.de/index.php/apps/calendar/embed/3P6NO7HIJ0DMNY8K"></iframe> -->
+                <iframe src="https://cloud.p-staudacher.de/s/XnfLSSe5tDltBhl"></iframe>
         </div>
         <div id="form" class="width_lim">
             <h2>Formular</h2>
@@ -191,6 +192,6 @@
                 Rückmeldung an die von Ihnen angegebene E-Mail-Adresse.</p>
             <?php } ?>
         </div>
-        <script src="assets/js/index.js" async defer></script>
+        <script src="/assets/js/index.js" async defer></script>
     </body>
 </html>
