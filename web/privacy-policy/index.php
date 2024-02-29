@@ -176,14 +176,15 @@
                 <h4>Kontaktanfragen / Kontaktmöglichkeit</h4>
                 <p>
                     Sofern Sie per Kontaktformular oder E-Mail mit uns in Kontakt treten, werden die dabei von Ihnen angegebenen Daten zur Bearbeitung Ihrer Anfrage 
-                    genutzt. Die Angaber der Daten ist zur Bearbeitung und Beantwortung Ihrer Anfrage erforderlich – ohne deren Bereitstellung können wir Ihre Anfrage 
-                    nicht oder allenfalls eingeschränkt beantworten. 
+                    genutzt. Die Angabe der Daten ist zur Bearbeitung und Beantwortung Ihrer Anfrage erforderlich – ohne deren Bereitstellung können wir Ihre Anfrage 
+                    nicht oder allenfalls eingeschränkt beantworten. Diese Daten beinhalten Veranstaltungsinformationen (Zeitraum der Veranstaltung, Titel der 
+                    Veranstaltung, sonstige Informationen) und Ihre angegebene E-Mail-Adresse.
                 </p>
                 <p>
                     Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1 lit. b) DSGVO.
                 </p>
                 <p>
-                    Ihre Daten werden gelöscht, sofern Ihre Anfrage abschließend beantwortet worden ist und dewr Löschung keine gesetzlichen Aufbewahrungspflichten 
+                    Ihre Daten werden innerhalb von fünf Werktagen gelöscht, sofern die Veranstaltung vollendet ist und der Löschung keine gesetzlichen Aufbewahrungspflichten 
                     entgegenstehen, wie bspw. bei einer sich etwaig anschließenden Vertragsabwicklung.
                 </p>
                 <h4>Serverdaten</h4>
