@@ -80,20 +80,13 @@
                 <p>
                     Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist: <br>
                     <br>
-                    Ignaz-Günther-Gymnasium Rosenheim <br>
-                    Dieter Friedel <br>
-                    Prinzregentenstraße 32-34 <br>
-                    83022 Rosenheim <br>
-                    Telefon: +49 8031 3658652 <br>
-                    Telefax: +49 8031 3658699 <br>
-                    E-Mail: igg1@schulen.rosenheim.de <br>
+                    Schulleiter Ignaz-Günther-Gymnasium Rosenheim<br>
+                    E-Mail: igg1@schulen.rosenheim.de<br>
                     <br>
                     Datenschutzbeauftragte/r beim Anbieter ist: <br>
                     <br>
-                    Rainer Hofmann <br>
-                    Telefon: [DSB – Telefonnummer] <br>
-                    Telefax: [DSB – Faxnummer] <br>
-                    E-Mail: [DSB – E-Mail] <br>
+                    Datenschutzbeauftragter des Ignaz-Günther-Gymnasiums Rosenheim<br>
+                    E-Mail: Datenschutzbeauftragter.igg@schulen.rosenheim.de<br>
                 </p>
             
                 <h3>II. Rechte der Nutzer und Betroffenen</h3>
@@ -190,7 +183,7 @@
                 <h4>Serverdaten</h4>
                 <p>
                     Aus technischen Gründen, insbesondere zur Gewährleistung eines sicheren und stabilen Internetauftritts, werden Daten durch Ihren Internet-Browser 
-                    an uns bzw. an unseren Server-Provider übermittelt. Mit diesen sog. Server-Logfiles werden u.a. Tyü und Version Ihres Internetbrowsers, das 
+                    an uns bzw. an unseren Server-Provider übermittelt. Mit diesen sog. Server-Logfiles werden u.a. Typ und Version Ihres Internetbrowsers, das 
                     Betriebssystem, die Website, von der aus Sie auf unseren Internetauftritt gewechselt haben (Referrer URL), die Website(s) unseres Internetauftritts, 
                     die Sie besuchen, Datum und Uhrzeit des jeweiligen Zugriffs sowie die IP-Adresse des Internetanschlusses, von dem aus die Nutzung unserers Internetauftritts 
                     erfolgt, erhoben.
@@ -204,7 +197,7 @@
                 </p>
                 <p>
                     Die Daten werden spätestens nach sieben Tagen wieder gelöscht, soweit keine weitere Aufbewahrung zu Beweiszwecken erforderlich ist. Anderenfalls sind die 
-                    Daten bis zur endgültigen Klärung eines Vorgalls ganz oder teilweise von der Löschung ausgenommen.
+                    Daten bis zur endgültigen Klärung eines Vorfalls ganz oder teilweise von der Löschung ausgenommen.
                 </p>
                 <p><a href="https://www.xn--generator-datenschutzerklrung-pqc.de/">Muster-Datenschutzerklärung</a> der <a href="https://www.ratgeberrecht.eu/datenschutz/datenschutzerklaerung-generator-dsgvo.html">Anwaltskanzlei Weiß & Partner</a></p>
             </div>
