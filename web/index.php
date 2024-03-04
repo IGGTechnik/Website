@@ -52,8 +52,7 @@
         <div id="calendar" class="width_lim">
             <h2>Kalender</h2>
             <h3>Unsere aktuell geplanten Veranstaltungen</h3>
-            <!-- <iframe src="https://cloud.iggtechnik.de/index.php/apps/calendar/embed/3P6NO7HIJ0DMNY8K"></iframe> -->
-                <iframe src="https://cloud.p-staudacher.de/s/XnfLSSe5tDltBhl"></iframe>
+            <iframe src="https://cloud.iggtechnik.de/index.php/apps/calendar/embed/3P6NO7HIJ0DMNY8K"></iframe>
         </div>
         <div id="form" class="width_lim">
             <h2>Formular</h2>
