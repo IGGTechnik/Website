@@ -113,12 +113,12 @@
                 $mail->isSMTP();
                 $mail->Host = "web01.st-srv.eu";
                 $mail->SMTPAuth = true;
-                $mail->Username = "PHPonWebsite@iggtechnik.de";
-                $mail->Password = "0q_0Q48dn";
+                $mail->Username = "form@iggtechnik.de";
+                $mail->Password = "I04*tob62";
                 $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
                 $mail->Port = 465;
 
-                $mail->setFrom("PHPonWebsite@iggtechnik.de", $email);
+                $mail->setFrom("form@iggtechnik.de", $email);
                 $mail->addAddress("info@iggtechnik.de");
                 $mail->addReplyTo($email);
 
