@@ -113,7 +113,7 @@
                 $mail->Host = "web01.st-srv.eu";
                 $mail->SMTPAuth = true;
                 $mail->Username = "form@iggtechnik.de";
-                $mail->Password = "I04*tob62";
+                $mail->Password = "---"; //TODO: Insert password when deploying
                 $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
                 $mail->Port = 465;
 
