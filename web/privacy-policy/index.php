@@ -177,8 +177,8 @@
                     Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1 lit. b) DSGVO.
                 </p>
                 <p>
-                    Ihre Daten werden innerhalb von fünf Werktagen gelöscht, sofern die Veranstaltung vollendet ist und der Löschung keine gesetzlichen Aufbewahrungspflichten 
-                    entgegenstehen, wie bspw. bei einer sich etwaig anschließenden Vertragsabwicklung.
+                    Ihre Daten werden ein Jahr gespeichert oder innerhalb von fünf Werktagen gelöscht, sofern die Veranstaltung beendet ist und keine gestzlichen 
+                    Aufbewahrungspflichten entgegenstehen, wie bspw. bei einer sich etwaig anschließenden Vertragsabwicklung. Es gilt, was eher eintritt.
                 </p>
                 <h4>Serverdaten</h4>
                 <p>
