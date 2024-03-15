@@ -7,7 +7,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>IGG Technik</title>
+        <title>[Pre-Release] IGG Technik</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="/assets/css/index.css">
@@ -28,26 +28,45 @@
         <![endif]-->
         <header>
             <div class="header">
-            <a id="a__logo" href="https://iggtechnik.de"><img src="/assets/logos/full.png" alt="IGG Technik"></a>
-            <nav>
-                <a href="https://cloud.iggtechnik.de">ownCloud</a>
-            </nav>
-            <button class="hamburger">
-                <div class="bar"></div>
-            </button>
+                <a id="a__logo" href="https://iggtechnik.de"><img src="/assets/logos/full.png" alt="IGG Technik"></a>
+                <nav>
+                    <a href="https://cloud.iggtechnik.de">ownCloud</a>
+                </nav>
+                <button class="hamburger">
+                    <div class="bar"></div>
+                </button>
             </div>
         </header>
         <div class="mobile_nav">
             <nav>
-            <div>
-                <a href="https://cloud.iggtechnik.de">ownCloud</a>
-            </div>
+                <div>
+                    <a href="https://cloud.iggtechnik.de">ownCloud</a>
+                </div>
             </nav>
         </div>
-        
+
         <div id="news" class="width_lim">
             <h2>Aktuelles</h2>
-            <p>Noch haben wir keine Neuigkeiten!</p>
+            <p>
+                Hallo!<br>
+                Ich habe im laufe des letzten Jahres diese Website entworfen.<br>
+                Die aktuelle Version ist zwar vorläufig, aber funktionsfähig.<br>
+                <br>
+                Und wie geht das jetzt?<br>
+                1. E-Mail-Adresse angeben, unter der Sie erreichbar sind<br>
+                2. Veranstaltungstitel angeben<br>
+                3. Zeitraum der Veranstaltung angeben<br>
+                4. Genauere Details angeben:<br>
+                 - Vortrag/Konzert/Sonstiges?<br>
+                 - Mikrofone?<br>
+                 - Beamer?<br>
+                 - Generalprobe? (Bei Konzerten bitte <b>unbedingt</b> angeben!)<br>
+                 - Sonst noch irgendwas, an das ich gerade gar nicht gedacht hab?<br>
+                <br>
+                Warum jetzt diese Website?<br>
+                In Zukunft soll diese Website als automatisiertes Aula-Buchungs-Portal agieren. Somit 
+                wird die Planung der Veranstaltung in allen technischen und nicht-technischen Aspekten übersichtlicher und einfacher.
+            </p>
         </div>
         <div id="calendar" class="width_lim">
             <h2>Kalender</h2>
@@ -191,6 +210,16 @@
                 Rückmeldung an die von Ihnen angegebene E-Mail-Adresse.</p>
             <?php } ?>
         </div>
+
+        <footer>
+            <div class="footer">
+                <nav>
+                    <a href="https://iggtechnik.de/imprint">Impressum</a>
+                    <a href="https://iggtechnik.de/privacy-policy">Datenschutzerklärung</a>
+                </nav>
+            </div>
+        </footer>
+
         <script src="/assets/js/index.js" async defer></script>
     </body>
 </html>
